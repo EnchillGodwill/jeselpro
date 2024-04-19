@@ -58,7 +58,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 663px;
-  background-image: url("images/gh.jpg");
+  background-image: url("images/hero1.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -201,7 +201,7 @@
 .u-section-2 .u-image-1 {
   min-height: 447px;
   --radius: 5px;
-  background-image: url("images/tan1.jpg");
+  background-image: url("images/tan.jpg");
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -273,7 +273,7 @@
 .u-section-2 .u-image-4 {
   min-height: 434px;
   --radius: 5px;
-  background-image: url("images/expresso1.jpg");
+  background-image: url("images/expresso.jpg");
   background-position: 50% 50%;
 }
 
@@ -296,7 +296,14 @@
 }
 
 .u-section-2 .u-image-5 {
-  background-image: url("images/mocha1.png");
+  background-image: url("images/mocha.jpg");
+  --radius: 5px;
+  background-position: 50% 50%;
+  min-height: 434px;
+}
+
+.u-section-2 .u-image-5_5 {
+  background-image: url("images/ivory.jpg");
   --radius: 5px;
   background-position: 50% 50%;
   min-height: 434px;
@@ -323,7 +330,7 @@
 .u-section-2 .u-image-6 {
   --radius: 5px;
   min-height: 434px;
-  background-image: url("images/skin-tones-palette-vector-180609341.jpg");
+  background-image: url("images/ivory.jpg");
   background-position: 50% 50%;
 }
 
@@ -774,7 +781,7 @@
 .u-section-5 .u-image-1 {
   width: 685px;
   height: 685px;
-  background-image: url("images/tan.jpg");
+  background-image: url("images/tan1.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
